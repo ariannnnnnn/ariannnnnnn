@@ -2,6 +2,7 @@
 [![depon](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&layout=compact&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)](https://github.com/r3nyah)
 
 [![depon](https://github-readme-stats.vercel.app/api?username=r3nyah&theme=dark&&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)](https://github.com/r3nyah)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3nyah&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
