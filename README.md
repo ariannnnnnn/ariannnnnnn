@@ -1,6 +1,7 @@
 
 
 ![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)
+<br>
 ![r3nyah](https://github-readme-stats.vercel.app/api?username=r3nyah&theme=dark&&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)
 
 <h3 align="left">Connect with me:</h3>
