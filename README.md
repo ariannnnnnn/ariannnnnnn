@@ -1,14 +1,3 @@
-
-
-<!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
-![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=github_dark)
-![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=github_dark)
-![r3nyah](https://github-readme-stats.vercel.app/api?username=r3nyah&show_icons=true&theme=github_dark)
-[![r3nyah](https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=react-dark)](r3nyah)
-
-<br>
-<!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/arianfebrian/" target="blank"><img align="center"
@@ -23,6 +12,16 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=r3nyah">
  </p>
  <br>
+
+<!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
+![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=github_dark)
+![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=github_dark)
+![r3nyah](https://github-readme-stats.vercel.app/api?username=r3nyah&show_icons=true&theme=github_dark)
+[![r3nyah](https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=react-dark)](r3nyah)
+
+<br>
+<!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
+
 <!---
 ariannnnnnn/ariannnnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
