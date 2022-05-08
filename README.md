@@ -4,10 +4,6 @@
 ![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=github_dark)
 ![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=github_dark)
 ![r3nyah](https://github-readme-stats.vercel.app/api?username=r3nyah&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=r3nyah&theme=tokyonight_duo" alt="mystreak"/>
-
-<!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
-
 [![r3nyah](https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=react-dark)](r3nyah)
 
 <br>
