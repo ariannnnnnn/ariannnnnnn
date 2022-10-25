@@ -13,12 +13,20 @@
  </p>
  <br>
 
+
+<div align="center"> 
+  <a href="https://github.com/r3nyah">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=monokai"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=monokai"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=monokai"/>
+</div>
+
 <!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
-![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=monokai)
-![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=monokai)
+<!--![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3nyah&theme=monokai)
+![r3nyah](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3nyah&theme=monokai)-->
 <!-- ![r3nyah](https://github-readme-stats.vercel.app/api?username=r3nyah&show_icons=true&theme=monokai)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3nyah&theme=monokai"/> -->
-![r3nyah](https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=monokai)
+<!--![r3nyah](https://activity-graph.herokuapp.com/graph?username=r3nyah&theme=monokai)-->
 
 <br>
 <!--![r3nyah](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nyah&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)-->
