@@ -1,8 +1,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://www.linkedin.com/in/arianfebrian/" target="blank"><img align="center"
+ <a href="https://www.linkedin.com/in/arian-febrian/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="arianfebrian" height="40" width="40" /></a>
+      alt="arian-febrian" height="40" width="40" /></a>
   <a href="https://www.instagram.com/r3nyah_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="r3nyahphelia" height="40" width="40" /></a>
