@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; padding: 10px;">
     <p>
-      <img src='https://pbs.twimg.com/media/F6RWe1GbwAABD3w?format=jpg&name=4096x4096' width='320'>
+      <img src='https://pbs.twimg.com/media/F2WBSyGaYAA7Uk6?format=jpg&name=4096x4096' width='320'>
     </p>
   </div>
   <div style="flex: 1; padding: 10px;">
