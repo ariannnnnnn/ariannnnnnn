@@ -1,11 +1,10 @@
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; padding: 10px;">
-    <p>
-      <img src='https://pbs.twimg.com/media/F2WBSyGaYAA7Uk6?format=jpg&name=4096x4096' width='320'>
-    </p>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-</div>
+
+<p align="left">
+  <img src='https://pbs.twimg.com/media/FZrl-2EXkAE8x_e?format=jpg&name=4096x4096' height='500' align="left">
+</p>
+
+
+![](https://files.xmdhs.com/genshin/svg/108/816467546)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pw47doexup26slyntfifm3uwx4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -15,7 +14,7 @@
 
 
 ## My tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,vscode,android" />
   </a>
