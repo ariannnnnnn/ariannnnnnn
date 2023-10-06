@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src='https://pbs.twimg.com/media/FZrl-2EXkAE8x_e?format=jpg&name=4096x4096' height='500' align="left">
+  <img src='https://pbs.twimg.com/media/FzKBNcQaYAAbOmX?format=jpg&name=4096x4096' height='500' align="left">
 </p>
 
 
