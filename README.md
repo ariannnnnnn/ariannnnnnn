@@ -7,7 +7,7 @@
 ![](https://files.xmdhs.com/genshin/svg/108/816467546)
 
 <p align="left">
-  <img width="320" height="445" src="[https://spotify-github-profile.kittinanx.com/api/view?uid=uid=31pw47doexup26slyntfifm3uwx&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pw47doexup26slyntfifm3uwx4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pw47doexup26slyntfifm3uwx4&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
 ## My stats
