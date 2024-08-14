@@ -35,3 +35,21 @@ I'm a developer with experience in mobile app development, primarily using Flutt
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about mobile app development, Firebase, or anything tech-related!
+
+## 🚀 My Projects
+Here are some of the projects I've worked on:
+
+- **[FlutterChat](#)**: A cross-platform chat application built using Flutter and Firebase. This app features real-time messaging, push notifications, and seamless integration with Firebase for authentication and data storage.
+
+- **[KotlinWeather](#)**: An Android weather app developed using Kotlin. The app fetches real-time weather data from a REST API and provides users with detailed weather forecasts, alerts, and customizable widgets.
+
+- **[TaskMaster](#)**: A productivity app developed using Android Studio and Firebase. TaskMaster helps users manage their daily tasks with features like task categorization, deadline reminders, and cloud sync using Firebase Firestore.
+
+- **[FlutterCommerce](#)**: An e-commerce application built with Flutter, featuring a sleek UI, secure payment integration, and Firebase backend for managing user data, orders, and inventory in real-time.
+
+
+## 📫 Contact Me
+- Instagram: [@r3nyah_](https://www.instagram.com/r3nyah_/)
+- Twitter: [@r3nyah](https://x.com/r3nyah)
+  
+  
